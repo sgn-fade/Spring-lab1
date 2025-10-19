@@ -22,6 +22,6 @@ public class Lab1Application implements CommandLineRunner {
     public void run(String... args) throws Exception {
         power.CalculateResult();
         System.out.println("the result is " + power.getResult());
-        //diff in another branch
+        //diff in branch 1
     }
 }
