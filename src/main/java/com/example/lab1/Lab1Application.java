@@ -23,5 +23,6 @@ public class Lab1Application implements CommandLineRunner {
         power.CalculateResult();
         System.out.println("the result is " + power.getResult());
         //diff in branch 189
+        //diff in branch 123
     }
 }
